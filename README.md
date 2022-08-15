@@ -10,8 +10,7 @@ PROJETO FINAL DO MÓDULO REACT
 
 HOME
 
-![](C:\Users\adhal\Downloads\home.jpg)
-
+src/img/home.jpg
 ADICIONAR CONTATO
 
 ![](C:\Users\adhal\Downloads\add contact.jpg)
