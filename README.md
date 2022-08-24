@@ -8,7 +8,7 @@ PÁGINA INICIAL
 
 
 PÁGINA ADDICIONAR CONTATO
-![Tela Inicial](src/img/add contact.jpg)
+![Adicionar](src/img/add contact.jpg)
 
 
 PÁGINA EDITAR CONTATO 
