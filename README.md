@@ -3,6 +3,7 @@
 PROJETO FINAL DO MÓDULO REACT
 
 
+![Tela Inicial](src/img/home.jpg)
 
 
 
