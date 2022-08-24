@@ -10,7 +10,7 @@ PÁGINA INICIAL
 
 
 PÁGINA EDITAR CONTATO 
-![Tela Inicial](src/img/edit contact.jpg)
+![Tela Inicial](src/img/editcontact.jpg)
 
 
 RECURSOS
