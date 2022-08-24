@@ -1,5 +1,7 @@
 # projeto-react-contact-app
 
+Hospedado em [COVID19PRO](https://intchala.com);
+
 ## PROJETO FINAL DO MÓDULO REACT
 Um projeto de criação de uma aplicação LISTA DE CONTATOS,como parte de atividade do fim do módulo REACT.
 
