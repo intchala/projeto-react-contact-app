@@ -2,7 +2,7 @@
 
 PROJETO FINAL DO MÓDULO REACT
 
-
+PÁGINA INICIAL
 ![Tela Inicial](src/img/home.jpg)
 
 
